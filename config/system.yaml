@@ -2,7 +2,7 @@ home:
   alias: '/basics'
 
 pages:
-  theme: learn4
+  theme: quark
   markdown:
     extra: false
   process:
